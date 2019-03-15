@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: baa0549d6aef32841baf65ecac8f6e38
+timeCreated: 1538048778
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mainPlayerDie_0
+    21300002: mainPlayerDie_1
+    21300004: mainPlayerDie_2
+    21300006: mainPlayerDie_3
+    21300008: mainPlayerDie_4
+    21300010: mainPlayerDie_5
+    21300012: mainPlayerDie_6
+    21300014: mainPlayerDie_7
+    21300016: mainPlayerDie_8
+    21300018: mainPlayerDie_9
+    21300020: mainPlayerDie_10
+    21300022: mainPlayerDie_11
+    21300024: mainPlayerDie_12
+    21300026: mainPlayerDie_13
+    21300028: mainPlayerDie_14
+    21300030: mainPlayerDie_15
+    21300032: mainPlayerDie_16
+    21300034: mainPlayerDie_17
+    21300036: mainPlayerDie_18
+    21300038: mainPlayerDie_19
+    21300040: mainPlayerDie_20
+    21300042: mainPlayerDie_21
+    21300044: mainPlayerDie_22
+    21300046: mainPlayerDie_23
+    21300048: mainPlayerDie_24
+    21300050: mainPlayerDie_25
+    21300052: mainPlayerDie_26
+    21300054: mainPlayerDie_27
+    21300056: mainPlayerDie_28
+    21300058: mainPlayerDie_29
+    21300060: mainPlayerDie_30
+    21300062: mainPlayerDie_31
+    21300064: mainPlayerDie_32
+    21300066: mainPlayerDie_33
+    21300068: mainPlayerDie_34
+    21300070: mainPlayerDie_35
+    21300072: mainPlayerDie_36
+    21300074: mainPlayerDie_37
+    21300076: mainPlayerDie_38
+    21300078: mainPlayerDie_39
+    21300080: mainPlayerDie_40
+    21300082: mainPlayerDie_41
+    21300084: mainPlayerDie_42
+    21300086: mainPlayerDie_43
+    21300088: mainPlayerDie_44
+    21300090: mainPlayerDie_45
+    21300092: mainPlayerDie_46
+    21300094: mainPlayerDie_47
+    21300096: mainPlayerDie_48
+    21300098: mainPlayerDie_49
+    21300100: mainPlayerDie_50
+    21300102: mainPlayerDie_51
+    21300104: mainPlayerDie_52
+    21300106: mainPlayerDie_53
+    21300108: mainPlayerDie_55
+    21300110: mainPlayerDie_56
+    21300112: mainPlayerDie_57
+    21300114: mainPlayerDie_58
+    21300116: mainPlayerDie_59
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mainPlayerDie_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 267
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 267
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 267
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 267
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 274
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 274
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 241
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_8
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 241
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 241
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 241
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 224
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 224
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 222
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 195
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 198
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 198
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 205
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_18
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 205
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 168
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 168
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 177
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 175
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_23
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 182
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 182
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 137
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_26
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 156
+        width: 43
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_27
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 136
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_28
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 146
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 146
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_30
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 144
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 114
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 120
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 116
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_34
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 114
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_35
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 122
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_36
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 120
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_37
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 120
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_38
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 105
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_39
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 84
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 85
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_41
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 85
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_42
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 90
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_43
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 92
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_44
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 92
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_45
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 52
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_47
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 51
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_48
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 51
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_49
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 49
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_50
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 49
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_51
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 23
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 24
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_55
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 7
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 6
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_57
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 6
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_58
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 25
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainPlayerDie_59
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 24
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

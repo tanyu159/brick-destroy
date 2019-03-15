@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 1a278b29303be9942a59651b1acfd57c
+timeCreated: 1538223702
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: titleMainPlayer_0
+    21300002: titleMainPlayer_1
+    21300004: titleMainPlayer_2
+    21300006: titleMainPlayer_3
+    21300008: titleMainPlayer_4
+    21300010: titleMainPlayer_5
+    21300012: titleMainPlayer_6
+    21300014: titleMainPlayer_7
+    21300016: titleMainPlayer_8
+    21300018: titleMainPlayer_9
+    21300020: titleMainPlayer_10
+    21300022: titleMainPlayer_11
+    21300024: titleMainPlayer_12
+    21300026: titleMainPlayer_13
+    21300028: titleMainPlayer_14
+    21300030: titleMainPlayer_15
+    21300032: titleMainPlayer_16
+    21300034: titleMainPlayer_17
+    21300036: titleMainPlayer_18
+    21300038: titleMainPlayer_19
+    21300040: titleMainPlayer_20
+    21300042: titleMainPlayer_21
+    21300044: titleMainPlayer_22
+    21300046: titleMainPlayer_23
+    21300048: titleMainPlayer_24
+    21300050: titleMainPlayer_25
+    21300052: titleMainPlayer_26
+    21300054: titleMainPlayer_27
+    21300056: titleMainPlayer_28
+    21300058: titleMainPlayer_29
+    21300060: titleMainPlayer_30
+    21300062: titleMainPlayer_31
+    21300064: titleMainPlayer_32
+    21300066: titleMainPlayer_33
+    21300068: titleMainPlayer_34
+    21300070: titleMainPlayer_35
+    21300072: titleMainPlayer_36
+    21300074: titleMainPlayer_37
+    21300076: titleMainPlayer_38
+    21300078: titleMainPlayer_39
+    21300080: titleMainPlayer_40
+    21300082: titleMainPlayer_41
+    21300084: titleMainPlayer_42
+    21300086: titleMainPlayer_43
+    21300088: titleMainPlayer_44
+    21300090: titleMainPlayer_45
+    21300092: titleMainPlayer_46
+    21300094: titleMainPlayer_47
+    21300096: titleMainPlayer_48
+    21300098: titleMainPlayer_49
+    21300100: titleMainPlayer_50
+    21300102: titleMainPlayer_51
+    21300104: titleMainPlayer_52
+    21300106: titleMainPlayer_53
+    21300108: titleMainPlayer_54
+    21300110: titleMainPlayer_55
+    21300112: titleMainPlayer_56
+    21300114: titleMainPlayer_57
+    21300116: titleMainPlayer_58
+    21300118: titleMainPlayer_59
+    21300120: titleMainPlayer_60
+    21300122: titleMainPlayer_61
+    21300124: titleMainPlayer_62
+    21300126: titleMainPlayer_63
+    21300128: titleMainPlayer_64
+    21300130: titleMainPlayer_65
+    21300132: titleMainPlayer_66
+    21300134: titleMainPlayer_67
+    21300136: titleMainPlayer_68
+    21300138: titleMainPlayer_69
+    21300140: titleMainPlayer_70
+    21300142: titleMainPlayer_71
+    21300144: titleMainPlayer_72
+    21300146: titleMainPlayer_73
+    21300148: titleMainPlayer_74
+    21300150: titleMainPlayer_75
+    21300152: titleMainPlayer_76
+    21300154: titleMainPlayer_77
+    21300156: titleMainPlayer_78
+    21300158: titleMainPlayer_79
+    21300160: titleMainPlayer_80
+    21300162: titleMainPlayer_81
+    21300164: titleMainPlayer_82
+    21300166: titleMainPlayer_83
+    21300168: titleMainPlayer_84
+    21300170: titleMainPlayer_85
+    21300172: titleMainPlayer_86
+    21300174: titleMainPlayer_87
+    21300176: titleMainPlayer_88
+    21300178: titleMainPlayer_89
+    21300180: titleMainPlayer_90
+    21300182: titleMainPlayer_91
+    21300184: titleMainPlayer_92
+    21300186: titleMainPlayer_93
+    21300188: titleMainPlayer_94
+    21300190: titleMainPlayer_95
+    21300192: titleMainPlayer_96
+    21300194: titleMainPlayer_97
+    21300196: titleMainPlayer_98
+    21300198: titleMainPlayer_99
+    21300200: titleMainPlayer_100
+    21300202: titleMainPlayer_101
+    21300204: titleMainPlayer_102
+    21300206: titleMainPlayer_103
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: titleMainPlayer_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 505
+        width: 94
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 505
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 506
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 506
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 408
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 410
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 412
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 412
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_10
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 413
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 326
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 326
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 298
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_31
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 301
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_39
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 83
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_47
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 81
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_89
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 35
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_90
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 36
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_91
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 35
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_92
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 33
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 34
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_94
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 35
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_95
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 34
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titleMainPlayer_96
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 34
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
